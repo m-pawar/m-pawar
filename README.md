@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manu Pawar
-- 👀 I’m interested in Coding of Python and HCJ(Html, Css, Js)
-- 🌱 I’m currently learning Javascript and Python
+- 👀 I’m interested in Coding and HCJ(Html, Css, Js) and I love to create game on UNITY
+- 🌱 I’m currently learning Unity
 
 <!---
 m-pawar/m-pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
